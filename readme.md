@@ -26,15 +26,14 @@ Here are some of the technologies I work with:
 
 Here are a few projects I've worked on:
 
-- **[Project Name 1](https://github.com/Bigbanana80/project1)**: A brief description of what this project does and the technologies used.
-- **[Project Name 2](https://github.com/Bigbanana80/project2)**: A brief description of what this project does and the technologies used.
-- **[Project Name 3](https://github.com/Bigbanana80/project3)**: A brief description of what this project does and the technologies used.
+- **[Mouse Clicker Pro](https://github.com/bigbanana80/Mouse-clicker-Pro)**: OP mouse clicker but with more functionality such as holding mouse buttons and triple clicks, Made with Python and QT/Pyside
+- **[DNS Changer with Python](https://github.com/bigbanana80/Dns-changer-with-python)**: A small App made with Python and QT/Pyside that allows the user to change the computer DNS with few mouse clicks.
+- **[An Ecommerce Website](https://github.com/bigbanana80/Septo-PC)**: A Website made with Python and Django for practice, and learning proposes with working authentication and blog posts.
 
 ## 📫 Get in Touch
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@Bigbanana80](https://twitter.com/Bigbanana80)
+- 📧 Email: [sepehra90@gmail.com](mailto:sepehra90@gmail.com)
+- 🌐 LinkedIn: [Sepehr Aghajani](https://www.linkedin.com/in/sepehr-aghajani-556058201/)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
