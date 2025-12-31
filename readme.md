@@ -15,10 +15,6 @@ Here are some of the technologies I work with:
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools**: Git, Docker, VIM
 
-## GitHub Stats
-
-[![bigbanana80's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbanana80)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Projects
 
 Here are a few projects I've worked on:
