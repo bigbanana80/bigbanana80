@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 ## GitHub Stats
 
-![Bigbanana80's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bigbanana80&show_icons=true&hide_title=true&count_private=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bigbanana80=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
