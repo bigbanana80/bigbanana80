@@ -15,7 +15,7 @@ Here are some of the technologies I work with:
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools**: Git, Docker, VIM
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bigbanana80)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bigbanana80&theme=dark))](https://git.io/awesome-stats-card)
 
 
 ## Projects
